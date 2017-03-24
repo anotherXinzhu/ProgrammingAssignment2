@@ -1,4 +1,7 @@
-## The makeCacheMatrix function is created to store the matrix on
+## This function calculates and stores inverse matrix in cache.
+
+
+##The makeCacheMatrix function is created to store the matrix on
 ## which you want to do calculation and store the inverse matrix if
 ## already calculated. 
 ## When you assign this function to a variable (e.g. Cache) using 
